@@ -1,0 +1,15 @@
+{
+  "name": "projeto-js-avancado",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "i": "^0.3.7",
+    "readline-sync": "^1.4.10"
+  }
+}
